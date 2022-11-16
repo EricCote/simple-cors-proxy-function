@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-micro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" "
+  },
+  "author": "Eric Cote",
+  "license": "MIT",
+  "dependencies": {
+    "http-proxy": "^1.11.1",
+    "proxy-from-env": "^1.1.0"
+  }
+}
